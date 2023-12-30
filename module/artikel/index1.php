@@ -81,7 +81,7 @@ $num_page = ceil($total_rows / $per_page);
 </head>
 
 <body>
-    <h1>Daftar Mahasiswa</h1>
+    <h1>Daftar Buku</h1>
     <a href="tambah.php">Tambah Buku</a>
     <br><br>
     <form action="" method="get">
