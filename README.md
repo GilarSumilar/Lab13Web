@@ -13,7 +13,7 @@ Tugas pemrograman WEB Pagination, Pencarian #13
 - Fitur Pencarian.
 
 ## Sample Tugas
-<img src="https://github.com/GilarSumilar/Lab13Web/blob/main/gambar/Animation.gif" alt="Tugas" style="width: 60%;"/>
+<img src="https://github.com/GilarSumilar/Lab13Web/blob/main/gambar/Animation2.gif" alt="Tugas" style="width: 60%;"/>
 
 #### *Note :*
 Sudah menggunakan *session*
